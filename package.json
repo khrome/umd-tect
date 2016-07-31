@@ -1,0 +1,18 @@
+{
+  "name": "umd-tect",
+  "version": "0.0.1",
+  "description": "Detect whether a block of code contains a UMD wrapper.",
+  "main": "detector.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/khrome/umd-tect.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async-arrays": "^0.4.0"
+  }
+}
